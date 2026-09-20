@@ -69,11 +69,12 @@ stock-market-powerbi/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-└── docs/
-    ├── dashboard-overview.md
-    └── assets/
+└── dashboard-overview.md
+└── assets/
         ├── report-background-1.jpg
-        └── report-background-2.jpg
+        ├──report-background-2.jpg
+        └── README.md
+    
 ```
 
 ## License
