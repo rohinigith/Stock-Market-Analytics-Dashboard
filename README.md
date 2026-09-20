@@ -55,7 +55,7 @@ The report includes Power BI visuals such as:
 
 1. Download `Stock-Market-Analytics-Dashboard.pbix`.
 2. Install **Microsoft Power BI Desktop**.
-3. Open the `.pbix` file.
+3. Open the `STOCK MARKET.pbix` file.
 4. If prompted, configure the required data-source credentials or paths.
 5. Refresh the report if necessary.
 
@@ -65,7 +65,7 @@ The report includes Power BI visuals such as:
 
 ```text
 stock-market-powerbi/
-├── Stock-Market-Analytics-Dashboard.pbix
+├── Stock Market.pbix
 ├── README.md
 ├── LICENSE
 ├── .gitignore
